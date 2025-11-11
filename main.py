@@ -1,4 +1,4 @@
-from command import Command
+from srcs.command import Command
 
 def main():
     command = Command()

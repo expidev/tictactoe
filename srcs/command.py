@@ -1,4 +1,4 @@
-from tictactoe import TicTacToe
+from srcs.tictactoe import TicTacToe
 
 class Command:
 
